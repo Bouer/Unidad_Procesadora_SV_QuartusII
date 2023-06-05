@@ -13,13 +13,29 @@ Para desarrollar una Unidad Procesadora, se ha diseñado una arquitectura basada
 
 Cada uno de estos módulos se ha diseñado y programado en forma individual, para luego instanciarlo en el módulo principal de la Unidad Procesadora. Este enfoque modular permite una mayor flexibilidad y reutilización de los componentes, facilitando así el diseño y la escalabilidad del sistema.
 
-##Unidad Procesadora
+## Unidad Procesadora
 Se realizo la instanciación de todos los módulos; como el decodificador, compuertas and, registros, multiplexores A y B, multiplexor 2x1, Shifter y la ALU.
 
 [![Procesador-codigo.jpg](https://i.postimg.cc/wvj0XsBV/Procesador-codigo.jpg)](https://postimg.cc/QBvQsC19)
 
+## TestBench
+El testbench simula el comportamiento del diseño bajo prueba y verifica si las salidas generadas coinciden con los resultados esperados. Esto implica la creación de casos de prueba exhaustivos que cubren diferentes condiciones y escenarios posibles, incluyendo valores límite, casos extremos y condiciones de error.
+
+El testbench también puede incluir rutinas de inicialización, secuencias de eventos y temporizaciones para simular situaciones de funcionamiento realistas. Esto ayuda a identificar posibles problemas o errores en el diseño antes de su implementación física.
+
 [![Procesador-codigo.jpg](https://i.postimg.cc/wvj0XsBV/Procesador-codigo.jpg)](https://postimg.cc/QBvQsC19)
+
+
+### Parametros
+
+En la simulación de nuestro diseño, hemos utilizado varios parámetros clave para configurar y controlar el proceso de prueba. Estos parámetros nos permiten adaptar la simulación a nuestras necesidades específicas y garantizar una evaluación exhaustiva del diseño.
+A continuación, describiremos cómo se utilizaron estos parámetros en nuestra simulación:
 
 [![Parametros.jpg](https://i.postimg.cc/g2BvCBcv/Parametros.jpg)](https://postimg.cc/18wn6Bqt)
 
+
+###Simulacion parametrizada
+
 [![Simulacion2.jpg](https://i.postimg.cc/d386vRNJ/Simulacion2.jpg)](https://postimg.cc/xN1M3mSZ)
+
+
