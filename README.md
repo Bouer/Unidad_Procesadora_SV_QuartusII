@@ -13,3 +13,13 @@ Para desarrollar una Unidad Procesadora, se ha diseñado una arquitectura basada
 
 Cada uno de estos módulos se ha diseñado y programado en forma individual, para luego instanciarlo en el módulo principal de la Unidad Procesadora. Este enfoque modular permite una mayor flexibilidad y reutilización de los componentes, facilitando así el diseño y la escalabilidad del sistema.
 
+##Unidad Procesadora
+Se realizo la instanciación de todos los módulos; como el decodificador, compuertas and, registros, multiplexores A y B, multiplexor 2x1, Shifter y la ALU.
+
+[![Procesador-codigo.jpg](https://i.postimg.cc/wvj0XsBV/Procesador-codigo.jpg)](https://postimg.cc/QBvQsC19)
+
+[![Procesador-codigo.jpg](https://i.postimg.cc/wvj0XsBV/Procesador-codigo.jpg)](https://postimg.cc/QBvQsC19)
+
+[![Parametros.jpg](https://i.postimg.cc/g2BvCBcv/Parametros.jpg)](https://postimg.cc/18wn6Bqt)
+
+[![Simulacion2.jpg](https://i.postimg.cc/d386vRNJ/Simulacion2.jpg)](https://postimg.cc/xN1M3mSZ)
