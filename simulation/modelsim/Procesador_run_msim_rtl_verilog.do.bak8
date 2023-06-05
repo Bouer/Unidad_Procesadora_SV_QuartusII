@@ -1,0 +1,9 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/and_R.sv}
+

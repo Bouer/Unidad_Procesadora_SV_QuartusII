@@ -1,0 +1,240 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/simulation/modelsim
+vALU_G
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1684500768
+!i10b 1
+!s100 1CiMS4OW<88kmKC^o:oVz1
+IZ4kAdhDS:GOb?8G9B0>D53
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_G_sv_unit
+S1
+R0
+w1684344434
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/ALU_G.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/ALU_G.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1684500768.000000
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/ALU_G.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/ALU_G.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work {+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar}
+Z8 tCvgOpt 0
+n@a@l@u_@g
+vand_R
+R1
+R2
+!i10b 1
+!s100 n8N6QH6FU_nOTNDU9=eHL2
+IKQn<?eLJnLLmCALWE5X;51
+R3
+!s105 and_R_sv_unit
+S1
+R0
+w1684347229
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/and_R.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/and_R.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/and_R.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/and_R.sv|
+!i113 1
+R6
+R7
+R8
+nand_@r
+vdecoder
+R1
+R2
+!i10b 1
+!s100 0b`H6WOOZ7OEFmD4BYb`k1
+Ia0O]ZBC2DFiz@Ol=W<Ve@3
+R3
+!s105 decoder_sv_unit
+S1
+R0
+w1684499398
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/decoder.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/decoder.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/decoder.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/decoder.sv|
+!i113 1
+R6
+R7
+R8
+vmux_2x1
+R1
+Z9 !s110 1684500769
+!i10b 1
+!s100 F1@HIj<[ziLWT`SJT`IP[1
+Im1O=F:C6a9IjZ]e]J1^0m3
+R3
+!s105 mux_2x1_sv_unit
+S1
+R0
+w1684244362
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_2x1.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_2x1.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_2x1.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_2x1.sv|
+!i113 1
+R6
+R7
+R8
+vmux_4x1
+R1
+R2
+!i10b 1
+!s100 YEM9>@5_]OZV[ANU83z^40
+IY6><N[GMS<PUEF?R7EL0B2
+R3
+!s105 mux_4x1_sv_unit
+S1
+R0
+w1684500460
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_4x1.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_4x1.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_4x1.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_4x1.sv|
+!i113 1
+R6
+R7
+R8
+vProcesador
+R1
+R2
+!i10b 1
+!s100 GIaAWIm?hHjLeN60a?W_:1
+IFKM0nP=XBCOZ4]N5]Mn_63
+R3
+!s105 Procesador_sv_unit
+S1
+R0
+w1684434283
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador.sv|
+!i113 1
+R6
+R7
+R8
+n@procesador
+vProcesador_simulation
+R1
+R9
+!i10b 1
+!s100 ikz>m?nQm]bdCca=NGJ<N2
+Ie52_nX53W]akmBNEU1XEm3
+R3
+!s105 Procesador_simulation_sv_unit
+S1
+R0
+w1684442510
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv
+L0 3
+R4
+r1
+!s85 0
+31
+Z10 !s108 1684500769.000000
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv|
+!i113 1
+R6
+R7
+R8
+n@procesador_simulation
+vregistro
+R1
+R2
+!i10b 1
+!s100 zUO:^`3AC4_Y4a:Q^Koo[3
+I>=:ZG;iTKQfobZDih6lAz3
+R3
+!s105 registro_sv_unit
+S1
+R0
+w1684244234
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/registro.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/registro.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/registro.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/registro.sv|
+!i113 1
+R6
+R7
+R8
+vShifter
+R1
+R9
+!i10b 1
+!s100 ScE4Om<=@:OIFTb?nd8GM2
+IDmnbR@8YP<f3b@kUekVVQ0
+R3
+!s105 Shifter_sv_unit
+S1
+R0
+w1684244408
+8D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Shifter.sv
+FD:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Shifter.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Shifter.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar|D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Shifter.sv|
+!i113 1
+R6
+R7
+R8
+n@shifter

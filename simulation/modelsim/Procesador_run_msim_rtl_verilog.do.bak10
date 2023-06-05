@@ -1,0 +1,16 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/ALU_G.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/mux_4x1.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/and_R.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/Procesador.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/decoder.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/registro.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/mux_2x1.sv}
+vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV4 {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV4/Shifter.sv}
+

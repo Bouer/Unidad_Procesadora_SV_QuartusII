@@ -1,0 +1,149 @@
+# Reading D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/tcl/vsim/pref.tcl
+# do Procesador_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/ALU_G.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/ALU_G.sv 
+# -- Compiling module ALU_G
+# 
+# Top level modules:
+# 	ALU_G
+# End time: 09:52:48 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_4x1.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_4x1.sv 
+# -- Compiling module mux_4x1
+# 
+# Top level modules:
+# 	mux_4x1
+# End time: 09:52:48 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/and_R.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/and_R.sv 
+# -- Compiling module and_R
+# 
+# Top level modules:
+# 	and_R
+# End time: 09:52:48 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador.sv 
+# -- Compiling module Procesador
+# 
+# Top level modules:
+# 	Procesador
+# End time: 09:52:48 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/decoder.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/decoder.sv 
+# -- Compiling module decoder
+# 
+# Top level modules:
+# 	decoder
+# End time: 09:52:48 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/registro.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/registro.sv 
+# -- Compiling module registro
+# 
+# Top level modules:
+# 	registro
+# End time: 09:52:48 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_2x1.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:48 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/mux_2x1.sv 
+# -- Compiling module mux_2x1
+# 
+# Top level modules:
+# 	mux_2x1
+# End time: 09:52:49 on May 19,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Shifter.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:49 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Shifter.sv 
+# -- Compiling module Shifter
+# 
+# Top level modules:
+# 	Shifter
+# End time: 09:52:49 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -sv -work work +incdir+D:/Cursos\ y\ Carreras/INGENIERIA\ ELECTRONICA/Tecnicas\ Digitales\ 2/Quartus2_proyectos/Proyecto\ TP1\ -\ CPUV_5_simOK.rar/Proyecto\ TP1\ -\ CPUV_5_simOK.rar {D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv}
+# Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 09:52:49 on May 19,2023
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar" D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv 
+# -- Compiling module Procesador_simulation
+# 
+# Top level modules:
+# 	Procesador_simulation
+# End time: 09:52:49 on May 19,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  Procesador_simulate
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs=""+acc"" Procesador_simulate 
+# Start time: 09:52:50 on May 19,2023
+# ** Error: (vsim-3170) Could not find 'Procesador_simulate'.
+#         Searched libraries:
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/altera
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/220model
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/sgate
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/altera_mf
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/altera_lnsim
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/cyclonev
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/cyclonev_hssi
+#             D:/Quartus-lite-18.0.0.614-windows/modelsim_ase/altera/verilog/cyclonev_pcie_hip
+#             D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/simulation/modelsim/rtl_work
+#             D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/simulation/modelsim/rtl_work
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./Procesador_run_msim_rtl_verilog.do PAUSED at line 19
+vsim work.Procesador_simulation
+# vsim work.Procesador_simulation 
+# Start time: 09:52:50 on May 19,2023
+# Loading sv_std.std
+# Loading work.Procesador_simulation
+# Loading work.Procesador
+# Loading work.decoder
+# Loading work.and_R
+# Loading work.registro
+# Loading work.mux_4x1
+# Loading work.mux_2x1
+# Loading work.Shifter
+# Loading work.ALU_G
+add wave -position insertpoint sim:/Procesador_simulation/*
+run -all
+# Valores de las variables:
+# A_sel = 2, B_sel = 1, Dest_sel = 3, H_sel = 3
+# Cons_IN = 8, G_sel = 4, MB_sel = 1, MD_sel = 0, MF_sel = 0
+# Load_en = 0, Data_IN = 32, Address_out = 12, Data_out = 8, Tags = 1
+# Reg_in = 3
+# ** Note: $finish    : D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv(145)
+#    Time: 280 ns  Iteration: 0  Instance: /Procesador_simulation
+# 1
+# Break in Module Procesador_simulation at D:/Cursos y Carreras/INGENIERIA ELECTRONICA/Tecnicas Digitales 2/Quartus2_proyectos/Proyecto TP1 - CPUV_5_simOK.rar/Proyecto TP1 - CPUV_5_simOK.rar/Procesador_simulation.sv line 145
+# End time: 09:55:16 on May 19,2023, Elapsed time: 0:02:26
+# Errors: 1, Warnings: 0
