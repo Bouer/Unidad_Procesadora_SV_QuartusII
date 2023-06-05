@@ -1,0 +1,11 @@
+module decoder(
+					input  logic [1:0] Dec_in   , //  4 bit binary input
+					output logic [:0] Dec_out , //  16-bit out 
+					input  logic       enable        //  Enable for the decoder
+);
+
+assign dec_out = (enable) ? (1 << Dec_in) : 2'b00 ;
+
+endmodule
+
+

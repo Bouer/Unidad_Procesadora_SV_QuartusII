@@ -1,0 +1,15 @@
+module  mux_A #(parameter n=4)
+					(
+					input  logic [n-1:0]R0,R1,R2,R3,
+					input  logic [1:0]Asel,
+					output logic [n-1:0]Adata);
+					
+always_comb (*)
+	case (sel) 
+		2'b00 : Adata = R0;
+		2'b01 : Adata = R1;
+		2'b10 : Adata = R2;
+		2'b11 : Adata = R3;
+	endcase 
+
+endmodule 

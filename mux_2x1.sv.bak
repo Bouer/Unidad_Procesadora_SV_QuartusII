@@ -1,0 +1,8 @@
+module mux2x1 #(parameter n=4)(
+					input logic [n-1:0]Const_IN,B_muxdata,
+					input logic MB_sel,
+					output logic BUS_B, );
+
+assign BUS_B = (MB_sel) ? Const_IN : B_muxdata;
+
+endmodule

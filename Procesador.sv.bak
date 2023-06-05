@@ -1,0 +1,7 @@
+module procesador #(parameter n=4)
+						 (
+						 input logic [n-1:0] Asel,Bsel,
+						 input logic [2:0]Dsel,
+						 input logic Len,
+						 output logic [n-1:0] Adata,Bdata
+						 );

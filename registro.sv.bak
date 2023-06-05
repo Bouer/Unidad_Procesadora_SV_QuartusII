@@ -1,0 +1,11 @@
+module registro #(parameter n=4)(
+											input logic [n-1:0]R_in,
+											input logic R_enable,
+											output logic [n-1:0]R_out,
+											);
+											
+always_comb
+	if (enable) 
+		R_out <= R_in;
+	else:
+		R_out <= 0;
