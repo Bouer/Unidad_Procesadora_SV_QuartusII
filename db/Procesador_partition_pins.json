@@ -1,0 +1,245 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Tags[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Tags[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Tags[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Address_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_out[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Reg_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "G_sel[3]",
+					"strict" : false
+				},
+				{
+					"name" : "G_sel[2]",
+					"strict" : false
+				},
+				{
+					"name" : "G_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A_sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "B_sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "B_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MB_sel",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Cons_IN[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MD_sel",
+					"strict" : false
+				},
+				{
+					"name" : "MF_sel",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "H_sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "H_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Data_IN[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Dest_sel[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Dest_sel[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Load_en",
+					"strict" : false
+				},
+				{
+					"name" : "G_sel[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
